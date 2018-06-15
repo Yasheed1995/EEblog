@@ -1,5 +1,7 @@
 # EEblog
 
+![Alt text](images/Preview.png?raw=true "Title")
+
 ## Installation
 
 To run the server, first you need to install django. (recommend using virtualenv)
